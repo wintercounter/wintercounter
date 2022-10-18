@@ -1,12 +1,10 @@
 <h1 align="left">Hey there 👋! Welcome to my profile. I'm Victor.</h1>
-<h3 align="left">A <em>Front-end Architect</em> who likes bringing his own ideas to reality.</h3>
+<h3 align="left">A <em>Front-end Specialized</em> Fullstack Engineer who likes bringing his own ideas to reality.</h3>
 <h5 align="left">If you want to support me, just leave a ⭐ on any of my projects you like.</h5>
-
-- 🔭 I’m currently working Full-time at Docler Holding, Luxembourg.
 
 - 👯 I collaborate on my own own projects when I have some free time 😊.
 
-- 🤝 I’m looking for help mostly with CCSS, but I'm happy to accept help with anything else.
+- 🤝 I’m always looking for new way to solve everyday problems, trying to eliminate flaws of the existing methods.
 
 - 💬 Ask me about **all that's front-end**.
 
@@ -26,7 +24,7 @@ You may contact me at 📫 [e-mail](mailto:wintercounter@gmail.com) or follow me
 
 <h3 align="left">Stats</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=wintercounter" alt="wintercounter" /> </p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=wintercounter" alt="wintercounter" /></p>
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercounter&layout=compact" alt="wintercounter" /></p>
 
