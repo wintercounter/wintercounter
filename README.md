@@ -26,7 +26,7 @@ You may contact me at 📫 [e-mail](mailto:wintercounter@gmail.com) or follow me
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=wintercounter" alt="wintercounter" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercounter&layout=compact" alt="wintercounter" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercounter&layout=compact&theme=dracula" alt="wintercounter" /></p>
 
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wintercounter&show_icons=true" alt="wintercounter" /></p>
+<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wintercounter&show_icons=true&count_private=true&theme=dracula" alt="wintercounter" /></p>
 
