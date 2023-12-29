@@ -1,16 +1,40 @@
-<h1 align="left">Hey there 👋! Welcome to my profile. I'm Victor.</h1>
-<h3 align="left">A <em>Front-end Specialized</em> Fullstack Engineer who likes bringing his own ideas to reality.</h3>
-<h5 align="left">If you want to support me, just leave a ⭐ on any of my projects you like.</h5>
+<h1 align="left">Hey there 👋 I'm Viktor.</h1>
+<h3 align="left">A <em>Front-end Specialized</em> Fullstack Engineer and Consultant who likes bringing his own ideas to reality.</h3>
+<h5 align="left">I'm using GitHub to share both some Open Source projects and some codes from my past as an archive. Leave a ⭐ on any of my repos if you see something you like.</h5>
 
-- 👯 I collaborate on my own own projects when I have some free time 😊.
+💬 Ask me about anything, happy to chat.
 
-- 🤝 I’m always looking for new way to solve everyday problems, trying to eliminate flaws of the existing methods.
+You may contact me by 📫 [e-mail](mailto:wintercounter@gmail.com) or follow me on [Twitter](https://twitter.com/wintercounter1), maybe once I'll start posting useful stuff 😉
 
-- 💬 Ask me about **all that's front-end**.
 
-While I do 💗 coding and do love __OSS__, I don't like marketing 😊 I never really "advertise" myself or my projects, so I really wonder how you got here 😜
+## Projects
 
-You may contact me at 📫 [e-mail](mailto:wintercounter@gmail.com) or follow me on [Twitter](https://twitter.com/wintercounter1). Maybe if I get enough followers I'll start posting useful stuff 😉
+### `mhy` | [GitHub](https://github.com/wintercounter/mhy) | [Website](https://mhy.js.org)
+
+__Provides a reproducible development and production environments.__
+<br /> Quick project setup supporting several different tools and build steps working together seamlessly.
+
+---
+
+### `CCSS` | [GitHub](https://github.com/wintercounter/ccss) | [Website](https://ccss.dev)
+
+__Low-level utility to deal with CSS Style Objects.__
+<br /> Swiss-army knife to build custom CSS-in-JS solutions supporting custom props and plugins. Built on top of `transformed`.
+
+---
+
+### `YouEye` | [GitHub](https://github.com/wintercounter/ccss/tree/master/packages/youeye) | [Website](https://youeye.dev)
+
+__Single component UI library for CSS-in-JS.__
+<br /> Built on top of `CCSS`. Provides Zero-Runtime static extraction through its Babel plugin and Prop-based styling for the complete CSS spec.
+
+---
+
+### `Drum 'n Bass Over-powered (dnbop.com)` | [GitHub](https://github.com/wintercounter/dnbop) | [Website](https://dnbop.com)
+
+__A one weekend side-project to play around with Next.js's built-in fetch caching feature.__
+<br /> The site is automatically updated using my own Spotify playlists.
+
 
 <h3 align="left">Other social profiles</h3>
 <p align="left">
