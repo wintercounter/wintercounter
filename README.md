@@ -4,7 +4,7 @@
 
 💬 Ask me about anything, happy to chat.
 
-You may contact me by 📫 [e-mail](mailto:wintercounter@gmail.com) or follow me on [Twitter](https://twitter.com/wintercounter1), maybe once I'll start posting useful stuff 😉
+You may contact me by 📫 [e-mail](mailto:wintercounter@gmail.com) or follow me on [X](https://x.com/wintercounter1), maybe once I'll start posting useful stuff 😉
 
 
 ## Projects
