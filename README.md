@@ -1,56 +1,51 @@
-<h1 align="left">Hey there 👋 I'm Viktor.</h1>
-<h3 align="left">A <em>Front-end Specialized</em> Fullstack Engineer and Consultant who likes bringing his own ideas to reality.</h3>
-<h5 align="left">I'm using GitHub to share both some Open Source projects and some codes from my past as an archive. Leave a ⭐ on any of my repos if you see something you like.</h5>
+# Viktor Vincze
 
-💬 Ask me about anything, happy to chat.
+Front-end focused full-stack engineer and consultant.
 
-You may contact me by 📫 [e-mail](mailto:wintercounter@gmail.com) or follow me on [X](https://x.com/wintercounter1), maybe once I'll start posting useful stuff 😉
+- 📬 Email: [wintercounter@gmail.com](mailto:wintercounter@gmail.com)
+- 🌐 Website: [wintercounter.me](https://wintercounter.me)
+- 💬 X: [@wintercounter1](https://x.com/wintercounter1)
+- ✒️ CodePen: [wintercounter](https://codepen.io/wintercounter)
+- 📝 dev.to: [wintercounter](https://dev.to/wintercounter)
+- 🧠 Stack Overflow: [wintercounter](https://stackoverflow.com/users/499501/wintercounter)
+- 🧪 CodeSandbox: [wintercounter](https://codesandbox.com/wintercounter)
+- 📚 Medium: [@wintercounter](https://medium.com/@wintercounter)
+
+I use GitHub to ship open-source experiments and libraries.
 
 
 ## Projects
 
-### `mhy` | [GitHub](https://github.com/wintercounter/mhy) | [Website](https://mhy.js.org)
+- 🎨 [ccss](https://github.com/wintercounter/ccss) — CSS-in-JS primitives for building scalable design systems. `TypeScript` `CSS-in-JS` `Design System`
+- 🎨 [YouEye](https://github.com/wintercounter/ccss) — Single-component UI toolbox built on top of CCSS. `UI` `CSS-in-JS` `Design System`
+- 🧩 [pluvo](https://github.com/wintercounter/pluvo) — Code generator that uses source files plus magic comments as templates. `JavaScript` `Codegen` `Tooling`
+- 🎵 [dnbop](https://github.com/wintercounter/dnbop) — Source code for the dnbop.com music side project. `TypeScript` `Next.js` `Web App`
+- 🎞️ [use-start-view-transition](https://github.com/wintercounter/use-start-view-transition) — React hooks for the View Transitions API. `TypeScript` `React` `Animation`
+- 🍞 [buttered-toast](https://github.com/wintercounter/buttered-toast) — Lightweight toast notification system for React apps. `TypeScript` `React` `UI`
+- 📱 [use-breakpoint](https://github.com/wintercounter/use-breakpoint) — React hook for responsive values across breakpoints. `TypeScript` `React` `Responsive`
+- 🧰 [mhy](https://github.com/wintercounter/mhy) — Zero-config development toolbox for modern frontend workflows. `JavaScript` `CLI` `Tooling`
+- 🧱 [phrame](https://github.com/wintercounter/phrame) — Modular Sass framework designed for CSS Modules workflows. `SCSS` `CSS` `Framework`
+- 🚩 [fleg](https://github.com/wintercounter/fleg) — Tiny feature-flag library for browser and Node.js environments. `TypeScript` `Feature Flags` `Library`
+- 🔀 [transformed](https://github.com/wintercounter/transformed) — Utility library for transforming structured style and config data. `TypeScript` `Utilities` `Data`
+- 🧹 [purge-react-icons](https://github.com/wintercounter/purge-react-icons) — Tool that strips unused icons from react-icons sources. `JavaScript` `Build` `Optimization`
+- 📡 [Chambr](https://github.com/wintercounter/Chambr) — RPC-like data interaction layer for application modules. `JavaScript` `Architecture` `Data`
+- 📣 [Highway.js](https://github.com/wintercounter/Highway.js) — Pub/sub event emitter for worker and cross-context communication. `JavaScript` `Events` `Workers`
+- 🔄 [commonizer](https://github.com/wintercounter/commonizer) — Converter for transforming ESM dependencies to CommonJS. `JavaScript` `Build` `Interop`
+- ✅ [eslint-global-patch](https://github.com/wintercounter/eslint-global-patch) — Patch that restores global config and plugin support in ESLint workflows. `JavaScript` `ESLint` `Tooling`
+- 📺 [tvjs](https://github.com/wintercounter/tvjs) — Stateful component model with a jQuery-like API style. `JavaScript` `Components` `UI`
 
-__Provides a reproducible development and production environments.__
-<br /> Quick project setup supporting several different tools and build steps working together seamlessly.
+## Archive, Fun & Demos
 
----
-
-### `CCSS` | [GitHub](https://github.com/wintercounter/ccss) | [Website](https://ccss.dev)
-
-__Low-level utility to deal with CSS Style Objects.__
-<br /> Swiss-army knife to build custom CSS-in-JS solutions supporting custom props and plugins. Built on top of `transformed`.
-
----
-
-### `YouEye` | [GitHub](https://github.com/wintercounter/ccss/tree/master/packages/youeye) | [Website](https://youeye.dev)
-
-__Single component UI library for CSS-in-JS.__
-<br /> Built on top of `CCSS`. Provides Zero-Runtime static extraction through its Babel plugin and Prop-based styling for the complete CSS spec.
-
----
-
-### `Drum 'n Bass Over-powered (dnbop.com)` | [GitHub](https://github.com/wintercounter/dnbop) | [Website](https://dnbop.com)
-
-__A one weekend side-project to play around with Next.js's built-in fetch caching feature.__
-<br /> The site is automatically updated using my own Spotify playlists.
-
-
-<h3 align="left">Other social profiles</h3>
-<p align="left">
-<a href="https://codepen.io/wintercounter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="wintercounter" height="30" width="40" /></a>
-<a href="https://dev.to/wintercounter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="wintercounter" height="30" width="40" /></a>
-<a href="https://twitter.com/wintercounter1" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="wintercounter1" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/499501/wintercounter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="wintercounter" height="30" width="40" /></a>
-<a href="https://codesandbox.com/wintercounter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="wintercounter" height="30" width="40" /></a>
-<a href="https://medium.com/@wintercounter" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@wintercounter" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Stats</h3>
+- 💬 [Protip](https://github.com/wintercounter/Protip) — Classic jQuery tooltip plugin project. `JavaScript` `jQuery` `Plugin`
+- 🛰️ [react18-apollo-ssr-bundle-split-demo](https://github.com/wintercounter/react18-apollo-ssr-bundle-split-demo) — Demo setup for React 18, Apollo SSR, and bundle splitting. `TypeScript` `React` `Demo`
+- 🏷️ [riot-class](https://github.com/wintercounter/riot-class) — ES6 class wrapper for creating Riot tags. `JavaScript` `Riot.js` `Wrapper`
+- 🌀 [fun___psychedelic-stuff](https://github.com/wintercounter/fun___psychedelic-stuff) — Experimental playground for psychedelic visuals and effects. `HTML` `Visuals` `Experiment`
+- 🚧 [express](https://github.com/wintercounter/express) — Minimal under-construction website template. `CSS` `Template` `UI`
+- ⚖️ [its-not-fair](https://github.com/wintercounter/its-not-fair) — Small Pac-Man-inspired side project. `TypeScript` `Game` `Experiment`
+- 🃏 [knau](https://github.com/wintercounter/knau) — Browser implementation of a UNO-inspired card game. `HTML` `Game` `Web App`
+- 🎛️ [ucpanel](https://github.com/wintercounter/ucpanel) — Legacy under-construction panel with admin/editor ideas. `JavaScript` `Legacy` `UI`
+- 🖼️ [uipro](https://github.com/wintercounter/uipro) — Legacy metro-style quick-access sidebar interface. `PHP` `Legacy` `UI`
+- 🧭 [touristguide](https://github.com/wintercounter/touristguide) — Legacy jQuery plugin for guided website tours. `JavaScript` `jQuery` `Plugin`
+- 🗺️ [pathd](https://github.com/wintercounter/pathd) — Legacy one-page / multipage jQuery navigation plugin. `CSS` `jQuery` `Plugin`
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=wintercounter" alt="wintercounter" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wintercounter&layout=compact&theme=dracula" alt="wintercounter" /></p>
-
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=wintercounter&show_icons=true&count_private=true&theme=dracula" alt="wintercounter" /></p>
-
