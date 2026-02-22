@@ -16,6 +16,7 @@ I use GitHub to ship open-source experiments and libraries.
 
 ## Projects
 
+- ⚡ [boss](https://github.com/wintercounter/boss) — Polymorphic, usage-driven CSS-in-JS for modern apps and design systems. `TypeScript` `CSS-in-JS`
 - 🎨 [ccss](https://github.com/wintercounter/ccss) — CSS-in-JS primitives for building scalable design systems. `TypeScript` `CSS-in-JS` `Design System`
 - 🎨 [YouEye](https://github.com/wintercounter/ccss) — Single-component UI toolbox built on top of CCSS. `UI` `CSS-in-JS` `Design System`
 - 🧩 [pluvo](https://github.com/wintercounter/pluvo) — Code generator that uses source files plus magic comments as templates. `JavaScript` `Codegen` `Tooling`
