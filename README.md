@@ -16,7 +16,7 @@ I use GitHub to ship open-source experiments and libraries.
 
 ## Projects
 
-- 🧮 [gridla](https://github.com/wintercounter/gridla) — Pixel-based grid and nested-layout engine with move, resize, place, and transfer solving. Framework-neutral core. `TypeScript` `Grid` `DnD`
+- 🧮 [gridla](https://github.com/wintercounter/gridla) — Pixel-based grid and nested-layout engine with move, resize, place, and transfer solving. `TypeScript` `Grid` `DnD`
 - ⚡ [boss](https://github.com/wintercounter/boss) — Polymorphic, usage-driven CSS-in-JS for modern apps and design systems. `TypeScript` `CSS-in-JS`
 - 🎨 [ccss](https://github.com/wintercounter/ccss) — CSS-in-JS primitives for building scalable design systems. `TypeScript` `CSS-in-JS` `Design System`
 - 🎨 [YouEye](https://github.com/wintercounter/ccss) — Single-component UI toolbox built on top of CCSS. `UI` `CSS-in-JS` `Design System`
